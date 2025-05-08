@@ -263,7 +263,7 @@ http://localhost:8080 | jq -r ".result"
 ✅ **Step 3: Register with Discord**
 
 
-* join dc- https://discord.gg/aztec 
+* join https://discord.gg/aztec
 
 * Go to `#operators│start-here` Channel
 
@@ -319,7 +319,9 @@ aztec add-l1-validator \
 
 
 
-👉 Join TG for more Updates: https://telegram.me/cryptogg
+👉 Join TG for more Updates: 
+
+https://t.me/+kamRWpadSgc0NWY1
 
 If U have any issue then open a issue on this repo or Dm me on TG~
 
